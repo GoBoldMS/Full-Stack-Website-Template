@@ -2,7 +2,8 @@
 
 **Full Stack React Website Template ** Ready to deploy for Ecommerce website some modification need to be done. Frontend is writen in TypeScript. Important! admin privileges can only be given directly from the data base. You will need to set "isAdmin" to g greater than 1.
 
-Defult admin user --> Username: Admin Password: 12345. Defult regular user --> Username: Regularuser Password:12345.
+Defult admin user --> Username: Admin Password: 12345. 
+Defult regular user --> Username: Regularuser Password:12345.
 
 Features:
 
